@@ -1,4 +1,4 @@
-# webdriver_python a simple Python Selenium Webdriver example.
+# webdriver_python is a simple Python Selenium Webdriver example.
 
 This is a simple example of how to use python to grab some information from a medical data website.
 The data is a subset of that grabbed by this [web-scraping script](https://github.com/phoughton/scraping). 
